@@ -110,12 +110,11 @@ by simply pressing "Ctrl+C" on your keyboard.
 
 # Authors and acknowledgment
 Group members:
-- Roudy KARAM (p2018275)
 - Maya SOUFAN (p2102583)
+- Roudy KARAM (p2018275)
 - Jane AZIZ (p2102430)
 - Sarra MEJRI (p2101522)
 
-Grateful for the collaboration within our group, we thrived on sharing our knowledge and supporting each other throughout the project. Special thanks to our two mentors Mr. Alexandre Meyer and Mr. Rémy Cazabet for their invaluable guidance.
 
 
 
